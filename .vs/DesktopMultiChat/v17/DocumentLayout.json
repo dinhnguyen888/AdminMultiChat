@@ -1,42 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\",
+  "WorkspaceRootPath": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|d:\\workspace\\project\\desktopmultichat\\desktopmultichat\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|solutionrelative:desktopmultichat\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|d:\\workspace\\project\\adminmultichat\\desktopmultichat\\roommanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|solutionrelative:desktopmultichat\\roommanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\desktopmultichat\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|solutionrelative:desktopmultichat\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\desktopmultichat\\roommanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|solutionrelative:desktopmultichat\\roommanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\desktopmultichat\\chatform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|solutionrelative:desktopmultichat\\chatform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\desktopmultichat\\addroomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|solutionrelative:desktopmultichat\\addroomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\desktopmultichat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\desktopmultichat\\accountmanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|solutionrelative:desktopmultichat\\accountmanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\desktopmultichat\\accountmanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|solutionrelative:desktopmultichat\\accountmanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\desktopmultichat\\accountmanagementcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|solutionrelative:desktopmultichat\\accountmanagementcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\desktopmultichat\\managementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|solutionrelative:desktopmultichat\\managementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|d:\\workspace\\project\\adminmultichat\\desktopmultichat\\addroomform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|solutionrelative:desktopmultichat\\addroomform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\desktopmultichat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|solutionrelative:desktopmultichat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\desktopmultichat\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|solutionrelative:desktopmultichat\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\desktopmultichat\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\desktopmultichat\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|solutionrelative:desktopmultichat\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\desktopmultichat\\chatform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|solutionrelative:desktopmultichat\\chatform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\desktopmultichat\\roommanagementcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|solutionrelative:desktopmultichat\\roommanagementcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\desktopmultichat\\loginform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\desktopmultichat\\addroomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|solutionrelative:desktopmultichat\\addroomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\desktopmultichat\\managementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|solutionrelative:desktopmultichat\\managementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\desktopmultichat\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|solutionrelative:desktopmultichat\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\desktopmultichat\\loginform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{098CD451-D252-457E-841D-2780D4BA78A0}|DesktopMultiChat\\DesktopMultiChat.csproj|solutionrelative:desktopmultichat\\loginform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\desktopmultichat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:desktopmultichat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\desktopmultichat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AddAccountForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesktopMultiChat\\AddAccountForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\desktopmultichat\\addaccountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:desktopmultichat\\addaccountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\desktopmultichat\\addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:desktopmultichat\\addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AddAccountForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesktopMultiChat\\AddAccountForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\desktopmultichat\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:desktopmultichat\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\ChatForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesktopMultiChat\\ChatForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\desktopmultichat\\chatform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:desktopmultichat\\chatform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\ChatForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesktopMultiChat\\ChatForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +109,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -61,29 +124,8 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ChatForm.cs [Design]",
-              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\DesktopMultiChat\\ChatForm.cs",
-              "RelativeDocumentMoniker": "DesktopMultiChat\\ChatForm.cs",
-              "ToolTip": "D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\DesktopMultiChat\\ChatForm.cs [Design]",
-              "RelativeToolTip": "DesktopMultiChat\\ChatForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T13:52:10.785Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ChatForm.cs",
-              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\DesktopMultiChat\\ChatForm.cs",
-              "RelativeDocumentMoniker": "DesktopMultiChat\\ChatForm.cs",
-              "ToolTip": "D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\DesktopMultiChat\\ChatForm.cs",
-              "RelativeToolTip": "DesktopMultiChat\\ChatForm.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAYwGkAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T13:52:13.11Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Bookmark",
@@ -91,81 +133,304 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ChatForm.resx",
-              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\DesktopMultiChat\\ChatForm.resx",
-              "RelativeDocumentMoniker": "DesktopMultiChat\\ChatForm.resx",
-              "ToolTip": "D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\DesktopMultiChat\\ChatForm.resx",
-              "RelativeToolTip": "DesktopMultiChat\\ChatForm.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-08-25T11:44:43.739Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginForm.resx",
-              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\DesktopMultiChat\\LoginForm.resx",
-              "RelativeDocumentMoniker": "DesktopMultiChat\\LoginForm.resx",
-              "ToolTip": "D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\DesktopMultiChat\\LoginForm.resx",
-              "RelativeToolTip": "DesktopMultiChat\\LoginForm.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-08-21T13:52:07.581Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\DesktopMultiChat\\Program.cs",
-              "RelativeDocumentMoniker": "DesktopMultiChat\\Program.cs",
-              "ToolTip": "D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\DesktopMultiChat\\Program.cs",
-              "RelativeToolTip": "DesktopMultiChat\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "DocumentIndex": 1,
+              "Title": "RoomManagementControl.cs [Design]",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\RoomManagementControl.cs",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\RoomManagementControl.cs",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\RoomManagementControl.cs [Design]",
+              "RelativeToolTip": "DesktopMultiChat\\RoomManagementControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T12:57:13.082Z"
+              "WhenOpened": "2024-09-09T17:36:37.39Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\DesktopMultiChat\\LoginForm.cs",
-              "RelativeDocumentMoniker": "DesktopMultiChat\\LoginForm.cs",
-              "ToolTip": "D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\DesktopMultiChat\\LoginForm.cs",
-              "RelativeToolTip": "DesktopMultiChat\\LoginForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "RoomManagementControl.cs",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\RoomManagementControl.cs",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\RoomManagementControl.cs",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\RoomManagementControl.cs",
+              "RelativeToolTip": "DesktopMultiChat\\RoomManagementControl.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T12:57:19.1Z"
+              "WhenOpened": "2024-09-11T04:35:41.881Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AddRoomForm.cs [Design]",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AddRoomForm.cs",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\AddRoomForm.cs",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AddRoomForm.cs [Design]",
+              "RelativeToolTip": "DesktopMultiChat\\AddRoomForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T04:31:54.912Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountManagementControl.cs [Design]",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AccountManagementControl.cs",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\AccountManagementControl.cs",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AccountManagementControl.cs [Design]",
+              "RelativeToolTip": "DesktopMultiChat\\AccountManagementControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:24:08.04Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountManagementControl.cs",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AccountManagementControl.cs",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\AccountManagementControl.cs",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AccountManagementControl.cs",
+              "RelativeToolTip": "DesktopMultiChat\\AccountManagementControl.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwCwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:25:11.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountManagementControl.Designer.cs",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AccountManagementControl.Designer.cs",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\AccountManagementControl.Designer.cs",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AccountManagementControl.Designer.cs",
+              "RelativeToolTip": "DesktopMultiChat\\AccountManagementControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:25:04.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagementForm.cs [Design]",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\ManagementForm.cs",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\ManagementForm.cs",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\ManagementForm.cs [Design]",
+              "RelativeToolTip": "DesktopMultiChat\\ManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:23:41.57Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddRoomForm.Designer.cs",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AddRoomForm.Designer.cs",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\AddRoomForm.Designer.cs",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AddRoomForm.Designer.cs",
+              "RelativeToolTip": "DesktopMultiChat\\AddRoomForm.Designer.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAYwA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:48:07.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\LoginForm.cs",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\LoginForm.cs",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\LoginForm.cs [Design]",
+              "RelativeToolTip": "DesktopMultiChat\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:07:34.452Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\Program.cs",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\Program.cs",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\Program.cs",
+              "RelativeToolTip": "DesktopMultiChat\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAMwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:57:13.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddRoomForm.cs",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AddRoomForm.cs",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\AddRoomForm.cs",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AddRoomForm.cs",
+              "RelativeToolTip": "DesktopMultiChat\\AddRoomForm.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T04:31:59.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "ChatForm.Designer.cs",
-              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\DesktopMultiChat\\ChatForm.Designer.cs",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\ChatForm.Designer.cs",
               "RelativeDocumentMoniker": "DesktopMultiChat\\ChatForm.Designer.cs",
-              "ToolTip": "D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\DesktopMultiChat\\ChatForm.Designer.cs",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\ChatForm.Designer.cs",
               "RelativeToolTip": "DesktopMultiChat\\ChatForm.Designer.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAABQAAAAJAAAA",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T14:56:21.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\DesktopMultiChat\\LoginForm.cs",
-              "RelativeDocumentMoniker": "DesktopMultiChat\\LoginForm.cs",
-              "ToolTip": "D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\DesktopMultiChat\\LoginForm.cs [Design]",
-              "RelativeToolTip": "DesktopMultiChat\\LoginForm.cs [Design]",
+              "DocumentIndex": 22,
+              "Title": "ChatForm.cs",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\ChatForm.cs",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\ChatForm.cs",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\ChatForm.cs",
+              "RelativeToolTip": "DesktopMultiChat\\ChatForm.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T16:07:34.452Z"
+              "WhenOpened": "2024-08-21T13:52:13.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAAIIBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-07T14:34:50.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddAccountForm.cs",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AddAccountForm.cs",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\AddAccountForm.cs",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AddAccountForm.cs",
+              "RelativeToolTip": "DesktopMultiChat\\AddAccountForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:35:29.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddAccountForm.Designer.cs",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AddAccountForm.Designer.cs",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\AddAccountForm.Designer.cs",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AddAccountForm.Designer.cs",
+              "RelativeToolTip": "DesktopMultiChat\\AddAccountForm.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:44:08.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoomManagementControl.Designer.cs",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\RoomManagementControl.Designer.cs",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\RoomManagementControl.Designer.cs",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\RoomManagementControl.Designer.cs",
+              "RelativeToolTip": "DesktopMultiChat\\RoomManagementControl.Designer.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAYwN0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T04:51:04.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddAccountForm.cs [Design]",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AddAccountForm.cs",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\AddAccountForm.cs",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AddAccountForm.cs [Design]",
+              "RelativeToolTip": "DesktopMultiChat\\AddAccountForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:35:26.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddRoom.cs [Design]",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AddRoom.cs",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\AddRoom.cs",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\AddRoom.cs [Design]",
+              "RelativeToolTip": "DesktopMultiChat\\AddRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:36:32.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManagementForm.cs",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\ManagementForm.cs",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\ManagementForm.cs",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\ManagementForm.cs",
+              "RelativeToolTip": "DesktopMultiChat\\ManagementForm.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:24:08.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\LoginForm.cs",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\LoginForm.cs",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\LoginForm.cs",
+              "RelativeToolTip": "DesktopMultiChat\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:57:19.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChatForm.cs [Design]",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\ChatForm.cs",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\ChatForm.cs",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\ChatForm.cs [Design]",
+              "RelativeToolTip": "DesktopMultiChat\\ChatForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:52:10.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChatForm.resx",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\ChatForm.resx",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\ChatForm.resx",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\ChatForm.resx",
+              "RelativeToolTip": "DesktopMultiChat\\ChatForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-25T11:44:43.739Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.resx",
+              "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\LoginForm.resx",
+              "RelativeDocumentMoniker": "DesktopMultiChat\\LoginForm.resx",
+              "ToolTip": "D:\\WORKSPACE\\PROJECT\\AdminMultiChat\\DesktopMultiChat\\LoginForm.resx",
+              "RelativeToolTip": "DesktopMultiChat\\LoginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-21T13:52:07.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\DesktopMultiChat\\Form1.cs",
-              "RelativeDocumentMoniker": "DesktopMultiChat\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\DesktopMultiChat\\DesktopMultiChat\\Form1.cs",
               "ToolTip": "D:\\WORKSPACE\\PROJECT\\DesktopMultiChat\\DesktopMultiChat\\Form1.cs [Design]",
-              "RelativeToolTip": "DesktopMultiChat\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\DesktopMultiChat\\DesktopMultiChat\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T12:28:12.837Z"
             }

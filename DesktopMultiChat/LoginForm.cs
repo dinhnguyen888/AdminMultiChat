@@ -4,11 +4,12 @@ using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Flurl.Http;
 using Newtonsoft.Json;
 
 namespace DesktopMultiChat
 {
-  
+
     public partial class LoginForm : Form
     {
 
@@ -17,75 +18,55 @@ namespace DesktopMultiChat
             InitializeComponent();
         }
 
-        private async void loginBtn_Click(object sender, EventArgs e)
+        public class LoginResponse
         {
-            // Lấy giá trị từ TextBox
-            string username = usernameTextBox.Text;
-            string password = passwordTextBox.Text;
+            public string Message { get; set; }
+            public string FullName { get; set; }
+            public int Id { get; set; }
+            public string PhoneNumber { get; set; }
+        }
 
-            // Kiểm tra thông tin đầu vào
-            if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password))
-            {
-                MessageBox.Show("Please enter both username and password.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                return;
-            }
 
-            var loginDto = new
-            {
-                Username = username,
-                Password = password
-            };
+        private async void LoginBtn_Click(object sender, EventArgs e)
+        {
+            
+            string phone = PhoneBox.Text;
+            string password = PassBox.Text;
 
             try
             {
-                var result = await LoginAsync(loginDto);
+                // Call Api with Flurl
+                var response = await "https://localhost:7066/api/Admin/login"
+                    .PostJsonAsync(new { PhoneNumber = phone, Password = password })
+                    .ReceiveJson<LoginResponse>(); // 
 
-                if (result != null)
+                if (response.Message == "Login successful.")
                 {
-                    GlobalData.GlobalName = result.Username;
-                    MessageBox.Show("Login successful!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
-
-                    // Mở form ChatForm
-                    ChatForm chatForm = new ChatForm();
-                    chatForm.Show();
-                   this.Hide();
+                    var managementForm = new ManagementForm();
+                    managementForm.Show();
+                    this.Hide();
                 }
                 else
                 {
-                    MessageBox.Show("Invalid username or password.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Đăng nhập thất bại: " + response.Message);
                 }
+            }
+            catch (FlurlHttpException ex)
+            {
+                // Handle error
+                var error = await ex.GetResponseStringAsync();
+                MessageBox.Show("Đăng nhập thất bại: " + error);
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"An error occurred while trying to log in: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-        }
-
-        private async Task<AccountDto> LoginAsync(object loginDto)
-        {
-            using (var client = new HttpClient())
-            {
-                client.BaseAddress = new Uri("https://localhost:7066/");
-                client.DefaultRequestHeaders.Accept.Clear();
-                client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
-
-                var content = new StringContent(JsonConvert.SerializeObject(loginDto), Encoding.UTF8, "application/json");
-                var response = await client.PostAsync("api/Accounts/login", content);
-
-                if (response.IsSuccessStatusCode)
-                {
-                    var json = await response.Content.ReadAsStringAsync();
-                    var account = JsonConvert.DeserializeObject<AccountDto>(json);
-                    return account;
-                }
-                return null;
+                // exxception handle
+                MessageBox.Show("Lỗi: " + ex.Message);
             }
         }
     }
 
-    public class AccountDto
-    {
-        public int Id { get; set; }
-        public string Username { get; set; }
-    }
+
 }
+
+    
+
